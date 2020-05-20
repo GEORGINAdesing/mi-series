@@ -1,0 +1,70 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+#contenedor{
+	width: 1000px;
+	height: 1200px;
+	margin: 5px auto;
+	background-color: white;
+	border-radius: 10px;
+}
+#encabezado{
+	width: 99%;
+	height: 10%;
+	margin: 5px;
+	background-color: #B7330F; FF782B
+	border-radius: 10px;
+}
+#menu{
+	width: 99%;
+	height: 4%;
+	margin: 5px;
+	background-color: #585858;
+	border-radius: 10px;
+}
+#seccion{
+	width: 99%;
+	height: 45%;
+	margin: 5px;
+	background-color: #ECECEC;
+	border-radius: 10px;
+}
+#pie{
+	width: 99%;
+	height: 40%;
+	margin: 5px;
+	background-color: #FF6720;
+	border-radius: 10px;
+}
+
+#articulo1{
+	width: 60%;
+	height: 99%;
+	margin: 5px;
+	background-color: #FFAD57;
+	border-radius: 10px;
+	float: left;
+}
+
+#articulo2{
+	width: 35%;
+	height: 95%;
+	margin: 5px;
+	background-color: #FFAD36;
+	border-radius: 10px;
+	float: right;
+
+}
+
+
+
+
+.nota{
+	width: 40%;
+	height:9%;
+	margin: 5px;
+	background-color: white;
+	border-radius: 10px;
+}

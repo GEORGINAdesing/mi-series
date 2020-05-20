@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+#contenedor{
+	width: 600px;
+	height: 1100px;
+	margin: 5px auto;
+	background-color: white;
+	border-radius: 10px;
+}
+#encabezado{
+	width: 99%;
+	height: 10%;
+	margin: 5px;
+	background-color: #FF5729;
+	border-radius: 10px;
+}
+
+#articulo1{
+	width: 98%;
+	height: 88%;
+	margin: 5px;
+	background-color: #FFC694;
+	border-radius: 10px;
+	float: left;
+}
